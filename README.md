@@ -1,4 +1,4 @@
-# Microeconomia2
+# Microeconomia 2 - UBA
 Curso: Ruiz, Julio </br>
 Ayudantes: Tesoro, Rafael y yo</br>
 
